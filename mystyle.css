@@ -1,0 +1,23 @@
+body
+	{background-color: AliceBlue;
+	color: gray;
+	text-align:justify;
+	line-height: 1.5;
+	margin: 5%
+	}
+h1,h2,h3,h4
+	{text-align: left;
+	color:#008CBA;
+	text-transform:uppercase;
+	font-family:'verdana';
+	font:bold;}
+#name {
+	text-align:center;
+
+	}
+.left{
+	text-align:left
+	}
+.right{
+	text-align:right;
+	}
