@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+body
+	{background-color: AliceBlue;
+	color: gray;
+	text-align:justify;
+	line-height: 1.5;
+	margin: 5%
+	}
+	
+h1,h2,h3,h4{
+	padding:2%
+}
+.exp{
+	clear:both;
+	text-align:left;
+	overflow: auto;
+	padding: 50px;
+	}
+
+.boxLeft{
+	float:left;
+	clear:left;
+	width: 70%;
+
+
+	
+}
+
+.boxRight{
+	float:left;
+	clear:right;
+	width: 30%;
+
+
+}
